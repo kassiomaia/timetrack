@@ -28,7 +28,9 @@ USAGE
 <!-- usagestop -->
 # Commands
 
-timetrack -d 14/01/2021 -h 1 -n 8
+```sh-session
+$ timetrack -d 14/01/2021 -h 1 -n 8
+```
 
 <!-- commands -->
 
