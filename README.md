@@ -19,7 +19,7 @@ $ npm install -g @kassio.maia/timetrack
 $ timetrack COMMAND
 running command...
 $ timetrack (-v|--version|version)
-@kassio.maia/timetrack/0.0.3 darwin-x64 node-v14.17.6
+@kassio.maia/timetrack/0.0.4 darwin-x64 node-v14.17.6
 $ timetrack --help [COMMAND]
 USAGE
   $ timetrack COMMAND
